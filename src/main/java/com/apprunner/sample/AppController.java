@@ -8,6 +8,6 @@ public class AppController {
     
     @GetMapping("/welcome")
     public String sample() {
-        return "Welcome BasicAuth Sample Test App";
+        return "Welcome AppRunner Sample Test App";
     }
 }
